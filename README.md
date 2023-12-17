@@ -67,7 +67,8 @@ query 2: 18.714157700000214 seconds
 query 3: 54.67122595000001 seconds
 
 query 4: 72.99690785000075 seconds
-![]()
+
+![](result.png)
 
 
 ## Выводы
